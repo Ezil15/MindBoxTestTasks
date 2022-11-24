@@ -1,0 +1,12 @@
+C:\Ezil\TestMind\CalcSquare\CalcSquare.Figures\bin\Debug\net6.0\CalcSquare.Figures.deps.json
+C:\Ezil\TestMind\CalcSquare\CalcSquare.Figures\bin\Debug\net6.0\CalcSquare.Figures.dll
+C:\Ezil\TestMind\CalcSquare\CalcSquare.Figures\bin\Debug\net6.0\CalcSquare.Figures.pdb
+C:\Ezil\TestMind\CalcSquare\CalcSquare.Figures\obj\Debug\net6.0\CalcSquare.Figures.csproj.AssemblyReference.cache
+C:\Ezil\TestMind\CalcSquare\CalcSquare.Figures\obj\Debug\net6.0\CalcSquare.Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ezil\TestMind\CalcSquare\CalcSquare.Figures\obj\Debug\net6.0\CalcSquare.Figures.AssemblyInfoInputs.cache
+C:\Ezil\TestMind\CalcSquare\CalcSquare.Figures\obj\Debug\net6.0\CalcSquare.Figures.AssemblyInfo.cs
+C:\Ezil\TestMind\CalcSquare\CalcSquare.Figures\obj\Debug\net6.0\CalcSquare.Figures.csproj.CoreCompileInputs.cache
+C:\Ezil\TestMind\CalcSquare\CalcSquare.Figures\obj\Debug\net6.0\CalcSquare.Figures.dll
+C:\Ezil\TestMind\CalcSquare\CalcSquare.Figures\obj\Debug\net6.0\refint\CalcSquare.Figures.dll
+C:\Ezil\TestMind\CalcSquare\CalcSquare.Figures\obj\Debug\net6.0\CalcSquare.Figures.pdb
+C:\Ezil\TestMind\CalcSquare\CalcSquare.Figures\obj\Debug\net6.0\ref\CalcSquare.Figures.dll
