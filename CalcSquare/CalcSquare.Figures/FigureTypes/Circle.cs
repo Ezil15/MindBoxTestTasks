@@ -22,7 +22,7 @@ namespace SquareCalc.Figures.FigureTypes
         public Circle(double radius)
         {
             if (radius < 0)
-                throw new ArgumentException("Радиус круга должен являться положительным числом");
+                throw new ArgumentException("Радиус круга должен являться положительным числом"); // Выкидываем ошибку, в случае если радиус круга отрицателен
 
             Radius = radius;
         }
@@ -32,7 +32,7 @@ namespace SquareCalc.Figures.FigureTypes
         /// </summary>
         protected override double CalculateSquare()
         {
-            return Math.PI * Math.Pow(Radius, 2);
+            return Math.PI * Math.Pow(Radius, 2); // Расчет площади круга по радиусу
         }
 
 
